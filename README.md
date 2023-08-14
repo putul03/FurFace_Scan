@@ -39,6 +39,7 @@ python classify.py cat_pic.png
 ## Credits
 FurFace Scan draws inspiration from our shared love for pets and the aspiration to develop a simple yet effective image recognition solution.
 You're welcome to contribute to this project by submitting issues or pull requests. If any query feel free to ask.
-Enjoy Machine Learning!!
+
+### Enjoy Machine Learning!!
 
 
